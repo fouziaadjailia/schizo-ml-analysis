@@ -48,10 +48,7 @@ This study explores how clinical and cognitive features correlate with schizophr
 
 XGBoost outperformed all other classifiers and showed strong predictive power using a compact set of neurocognitive and clinical features.
 
-## 📂 Folder Structure
 
-- `notebooks/`: Main Jupyter Notebook for the analysis.
-- `data/`: Data used in the experiment (excluded here for privacy reasons).
 
 ## 📚 Reference
 If you find this work useful, please cite the original paper and consider giving this repo a ⭐.
