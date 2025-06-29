@@ -52,8 +52,10 @@ XGBoost outperformed all other classifiers and showed strong predictive power us
 
 - `notebooks/`: Main Jupyter Notebook for the analysis.
 - `data/`: Data used in the experiment (excluded here for privacy reasons).
-- `results/`: Generated figures, ROC curves, confusion matrices.
-- `src/`: Utilities or scripts to modularize the code (optional).
+
+## 📚 Reference
+If you find this work useful, please cite the original paper and consider giving this repo a ⭐.
+
 
 ## 🚀 Getting Started
 
@@ -61,3 +63,5 @@ XGBoost outperformed all other classifiers and showed strong predictive power us
 
 ```bash
 pip install -r requirements.txt
+
+
